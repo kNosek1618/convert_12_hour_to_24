@@ -19,3 +19,6 @@ def convert(str1):
         return str(int(str1[:2]) + 12) + str1[2:8]
 
 print(convert("08:05:45 PM"))
+
+### R E S U L T ###
+# 20:05:45
